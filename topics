@@ -1,0 +1,13 @@
+data-structures
+    -stack, queue
+    -trees
+        -binary
+        -balanced tree
+        -n-tree
+
+algorithms
+    - sorting
+    - tree traversal(post-order, pre-order, in-order, level, spiral)
+    - binary-search
+
+Time and space complexity
